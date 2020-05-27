@@ -6,7 +6,7 @@
 
 ## Installation
 - Use your terminal to install jquery, it has to be inside a /node_modules folder.
-- import the database with the name = loginsystemdb
+- import the database as 'swib_salon'
 - open apache and mysql in the XAMPP CONTROL PANEL (or any other local server that you're using)
 ```
 npm install jquery
