@@ -5,11 +5,11 @@
 - To run this project you'll need a local server like (xampp, wamp..) for the php code.
 
 ## Installation
-- install jquery and make sure that it isn't the slim version because you need ajax
+- install jquery and make sure that it isn't the slim version because you need ajax.
 - import the database as 'swib_salon'
 - open apache and mysql in the XAMPP CONTROL PANEL (or any other local server that you're using)
 ```
-npm install jquery@version
+npm install jquery@3.5.0
 ```
 
 ## Contributing
